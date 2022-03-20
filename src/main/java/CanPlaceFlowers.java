@@ -1,5 +1,3 @@
-package com.company;
-
 public class CanPlaceFlowers {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         if (n <= 0) {
